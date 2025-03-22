@@ -1,0 +1,34 @@
+{
+  "__default&": {
+    "file": "__default&",
+    "module": "",
+    "workflowConfigs": {
+      "line-coverage": {
+        "settings": {
+          "buildCommand": "",
+          "simCommand": "",
+          "testVectorPath": "",
+          "coverageFilePath": "",
+          "coverageReport": "",
+          "maxConcurrentSims": "6"
+        }
+      },
+      "functional-coverage": {
+        "settings": {
+          "blockName": "",
+          "buildCommand": "",
+          "simCommand": "",
+          "testVectorPath": "",
+          "coverageFilePath": "",
+          "coverageReport": "",
+          "contextDirs": "",
+          "specPath": "",
+          "testplanPath": "",
+          "logPath": "",
+          "preexistingCoverageReport": "",
+          "maxConcurrentSims": "6"
+        }
+      }
+    }
+  }
+}
