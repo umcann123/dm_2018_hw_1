@@ -1,0 +1,1 @@
+print("I like pupu and furfur")
