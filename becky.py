@@ -4,3 +4,4 @@ if user_input == "Becky":
     print("Correct!")
 else:
     print("Wrong answer!")
+print("becky is so pretty!")
